@@ -63,3 +63,4 @@ BEGIN
 		/*Returned 'null' as a string because in SP DQ Date_Format check utility, target table has 'null' instead of database NULL */
 
 END;
+/
