@@ -1,5 +1,6 @@
 SET LINESIZE 32000;
 SET PAGESIZE 100;
+BREAK ON ROW SKIP PAGE;
 
 SPOOL C:\Users\aniruddhar\Desktop\SP_DQ_TRASH\Out.txt;
 
