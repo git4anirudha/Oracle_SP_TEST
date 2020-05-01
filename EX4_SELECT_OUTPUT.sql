@@ -1,4 +1,4 @@
-SET LINESIZE 32000;
+SET LINESIZE 1000;
 SET PAGESIZE 100;
 
 SPOOL C:\Users\aniruddhar\Desktop\SP_DQ_TRASH\Out.csv;
