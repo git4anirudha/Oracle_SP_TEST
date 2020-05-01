@@ -1,5 +1,5 @@
 SET LINESIZE 32000;
-SET PAGESIZE 100;
+
 
 SPOOL C:\Users\aniruddhar\Desktop\SP_DQ_TRASH\Out.txt;
 
