@@ -13,7 +13,7 @@ column STATUS format a7;
 column STATUS_DESC format a110;
 column DQ_REMARKS format a110;
 
-SPOOL C:\Users\aniruddhar\Desktop\SP_DQ_TRASH\Out.txt;
+SPOOL C:\Users\aniruddhar\Desktop\SP_DQ_TRASH\Out.csv;
 
 SELECT
 HEALTHPLAN,
