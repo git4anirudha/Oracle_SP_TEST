@@ -4,11 +4,12 @@ SET LINESIZE 400;
 SET PAGESIZE 50;
 
 column HEALTHPLAN format a12;
-column TABLE format a5;
+column TABLENAME format a5;
 column COLUMNNAME format a20;
 column TEST_SCENARIO format a30;
 column SOURCE_COUNT format a12;
 column TARGET_COUNT format a12;
+column STATUS format a7;
 column STATUS_DESC format a110;
 column DQ_REMARKS format a110;
 
